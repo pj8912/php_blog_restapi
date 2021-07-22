@@ -19,7 +19,7 @@ the response that you requested so an
 API is basically a messenger or a waiter
 between running software
   <blockquote>
-<p>creating php rest api from scratch with no framework</p>
+  <p>example: login using [google, fb, apple,...] and other companies that provide api for authentication</p>
 </blockquote>
 </blockquote>
   
