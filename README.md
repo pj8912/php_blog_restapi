@@ -4,7 +4,7 @@
 </blockquote>
 <hr>
 
-#REST API
+# REST API
 <blockquote>
   think of yourself at sitting at a table at a restaurant in your one piece of software such as a web application on
 the client side
