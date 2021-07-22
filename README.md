@@ -25,5 +25,6 @@ between running software
     </p>
 </blockquote>
 </blockquote>
-  
-https://www.youtube.com/watch?v=OEWXbpUMODk&list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo&index=2
+
+https://www.youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo
+https://github.com/bradtraversy/php_rest_myblog
