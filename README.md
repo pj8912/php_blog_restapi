@@ -19,7 +19,10 @@ the response that you requested so an
 API is basically a messenger or a waiter
 between running software
   <blockquote>
-  <p>example: login using [google, fb, apple,...] and other companies that provide api for authentication</p>
+  <p>example: login/register using [google, fb, apple,...] and other companies that provide api for authentication
+    if you have an gmail(goggle) account you can use that to register in our 
+    website which creates your own account in our network 
+    </p>
 </blockquote>
 </blockquote>
   
