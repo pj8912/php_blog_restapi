@@ -3,6 +3,26 @@ $(document).ready(() => {
         e.preventDefault()
         var url = $('form').serialize(); // serialize <form>data
 
+       /*
+        understanding whats going inside getUrlVars()
+        var url = 'https://www.youtube.com/watch?v=RMUrJhet-1M'
+
+        >var hashes = url.slice(url.indexOf('?') + 1)
+        >hashes
+        "v=RMUrJhet-1M"
+        >var hash, myJson = {}
+        >hash = hashes.split('=')   
+        ["v", "RMUrJhet-1M"]
+        >myJson[hash[0]] = hash[1]
+        "RMUrJhet-1M"
+        >myJson
+        {v: "RMUrJhet-1M"}
+        myJson['v']
+        "RMUrJhet-1M"
+       
+       */
+        
+        
         function getUrlVars(url) {
             var hash
             var myJson = {};
